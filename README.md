@@ -16,9 +16,8 @@
       <li>Minors: Cybersecurity & Data Science</li>
     </ul>
   </li>
-  <li>⚛️ <b>Passion:</b> Driving industry progress with innovative, ethical AI solutions and collaborative problem-solving.</li>
-  <li>🌱 <b>Research:</b> Tested adversarial defense and attack mechanisms for YOLO-P, leading to a peer-reviewed publication.</li>
-  <li>⚡ <b>Currently Learning:</b> Advanced AI vulnerabilities, secure application design, and scalable data systems.</li>
+  <li>🪻 <b>Passion:</b> Driving industry progress with innovative, ethical AI solutions and collaborative problem-solving.</li>
+  <li>⚡ <b>Currently Learning:</b> Exploring natural language processing and voice synthesis for AI-powered interactions and leveraging computer vision to promote sustainability through waste classification and automation.</li>
 </ul>
 
 ---
@@ -58,6 +57,6 @@
 
 ---
 
-<p align="center">Let's innovate together and make a difference ✨</p>
+<p align="center">Thanks for stopping by :) ✨</p>
 
 ---
