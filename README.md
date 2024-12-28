@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ann ✨</h1>
+<h1 align="center">Hi, I'm Ann 🪻</h1>
 <h3 align="center">Computer Scientist | Cybersecurity & Data Science Enthusiast | Aspiring ML/AI and SW Engineer</h3>
 
 <p align="center">
@@ -8,10 +8,10 @@
 ---
 
 <h2 align="center">
-  ✨ About Me ✨
+  🎀 About Me 
 </h2>
 <ul>
-  <li>🎓 <b>Education:</b> Computing Science (Honors Program) @ Jacksonville University 
+  <li>🎓 <b>Education:</b> Computing Science (Honors Program) @ JU
     <ul>
       <li>Minors: Cybersecurity & Data Science</li>
     </ul>
@@ -23,7 +23,7 @@
 ---
 
 <h2 align="center">
-  🚀 Technologies & Tools 🚀
+  🪄 Technologies & Tools 
 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -42,7 +42,7 @@
 
 ---
 
-<h2 align="center">📢 Let's Connect 📢</h2>
+<h2 align="center">📢 Let's Connect </h2>
 <p align="center">
   <a href="mailto:Annubaka223@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" height=25>
