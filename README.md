@@ -11,7 +11,7 @@
   🎀 About Me 
 </h2>
 <ul>
-  <li>🎓 <b>Education:</b> CS student @ JU
+  <li>🎓 <b>Education:</b> 3rd year CS student @ JU
     <ul>
       <li>Minors: Cybersecurity & Data Science</li>
     </ul>
