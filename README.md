@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Ann 🪻</h1>
+<h2 align="center">Hi, I'm Ann 🪻</h1>
+
 <h3 align="center">Computer Scientist | Cybersecurity & Data Science Enthusiast | Aspiring ML/AI and SW Engineer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/40/e6/70/40e6702e6743ce5da3e2d56b616eee11.gif" width="320" height="212">
+  <img src="https://i.pinimg.com/originals/40/e6/70/40e6702e6743ce5da3e2d56b616eee11.gif" width="320" height="212" alt="Animated pixel art of colorful flowers growing and blooming, representing growth and development.">
 </p>
 
----
 
 <h2 align="center">
   🎀 About Me 
@@ -16,11 +16,10 @@
       <li>Minors: Cybersecurity & Data Science</li>
     </ul>
   </li>
-  <li>🪻 <b>Passion:</b> Driving industry progress with innovative, ethical AI solutions and collaborative problem-solving.</li>
-  <li>⚡ <b>Currently Learning:</b> Exploring natural language processing and voice synthesis for AI-powered interactions and leveraging computer vision to promote sustainability through waste classification and automation.</li>
+  <li>🪻 <b>Passion:</b> I'm driven by continuous learning and applying my skills to create solutions that actually protect people's information and make their digital lives more secure.</li>
+  <li>⚡ <b>Currently Learning:</b> Developing a convolutional neural network for waste material classification and fine-tuning a specialized LLM to provide actionable recycling information, aiming to promote environmental sustainability through AI applications.</li>
 </ul>
 
----
 
 <h2 align="center">
   🪄 Technologies & Tools 
@@ -37,10 +36,10 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-</p>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></p>
 
----
 
 <h2 align="center">📢 Let's Connect </h2>
 <p align="center">
@@ -50,13 +49,9 @@
   <a href="https://www.linkedin.com/in/helloworld7/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  <a href="https://github.com/svnsvnsvn">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height=25>
-  </a>
 </p>
 
----
 
 <p align="center">Thanks for stopping by :) ✨</p>
 
----
+
