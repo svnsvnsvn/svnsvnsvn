@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Ann 🪻</h1>
 
-<h3 align="center">Computer Scientist | Cybersecurity & Data Science Enthusiast | Aspiring ML/AI and SW Engineer</h3>
+<h3 align="center">Computer Scientist | Cybersecurity & Data Science Enthusiast | Aspiring ML/AI Engineer</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/40/e6/70/40e6702e6743ce5da3e2d56b616eee11.gif" width="320" height="212" alt="Animated pixel art of colorful flowers growing and blooming, representing growth and development.">
