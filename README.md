@@ -1,4 +1,4 @@
-# Ann 🪻
+# ⋆˚✿˖° 𐙚 ₊ ⊹ ♡ Ann 🪻
 
 Computer Scientist | Cybersecurity & Data Science Enthusiast | Aspiring ML/AI Engineer
 
