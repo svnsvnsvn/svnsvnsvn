@@ -14,13 +14,11 @@ Computer Scientist | Cybersecurity & Data Science Enthusiast | Aspiring ML/AI En
 </ul>
   </li>
   <li><b>Interest:</b> I'm drawn to the intersection of social impact, AI, and security. I love building intelligent systems that are safer, more reliable, and less vulnerable to misuse. I'm also <i>very</i> interested in computer vision and its applications!</li>
-  <li><b>Current Focus:</b> Currently working on my <a href = "https://github.com/BTT-Abt-Global-1A/AI-Studio-Project" target = "_blank">Fall BTT project</a> with ABT Global. Also learning and documenting a few things: <ul>
-    <li>Intrusion Detection</li>
-    <li>Operating Systems</li>
-    <li>All notes are <a href="https://cs-427-cs-441.vercel.app/" target="_blank">here</a> 💗</li>
-  </ul>
-  My goal is to design AI models that people can trust, especially in areas where mistakes or exploitation could have real consequences.</li>
+  <li><b>Current Focus:</b> Currently working on my <a href = "https://github.com/BTT-Abt-Global-1A/AI-Studio-Project" target = "_blank">Fall BTT project</a> with ABT Global. </li>
+  
 </ul>
+
+> 💗 My goal is to design AI models that people can trust, especially in areas where mistakes or exploitation could have real consequences.
 
 
 <p align=center>
