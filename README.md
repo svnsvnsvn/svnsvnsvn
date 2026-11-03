@@ -10,7 +10,7 @@ Computer Scientist | ML/AI Security Engineer and Researcher | **Human** Centered
 ## About Me ☁️
   </li>
   <li><b>Interest:</b> I'm drawn to the intersection of social impact, AI, and security. I love building intelligent systems that are safer, more reliable, and less vulnerable to misuse. I'm also <i>very</i> interested in computer vision and its applications!</li>
-  <li><b>Current Focus:</b> Finishing my last semester of undergrad :) </li>
+  <li><b>Current Focus:</b> First semester of grad school :) </li>
   
 </ul>
 
